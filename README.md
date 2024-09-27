@@ -9,7 +9,6 @@ A web application for booking events, built with Node.js, EJS, MongoDB, and inte
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
